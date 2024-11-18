@@ -1,0 +1,67 @@
+#dnsrow {
+    display: none;
+}
+
+.configtable {
+    border-collapse: collapse;
+    margin: 6px;
+    font-size: 11pt;
+    min-width: 400px;
+    border: 2px solid black;
+    box-shadow: 3px 3px 2px #000
+}
+
+.configtable th,
+.configtable td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.configtable th {
+    color: #000;
+    font-size: 18px;
+    text-align: left;
+}
+
+.configtable td {
+    width: 50%;
+}
+
+.configtable tr {
+    background-color: lavender;
+    transition: background-color 0.5s ease;
+}
+
+.configtable tr:hover {
+    background-color: #fff;
+}
+
+.configtable tr#blacklists:hover {
+    background-color: lavender;
+}
+
+#blacklists input[type="text"] {
+    margin-right: 10px;
+    width: calc(100% - 70px);
+}
+
+#blacklist {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 10px;
+}
+
+#blacklist li {
+    padding: 4px;
+    margin-bottom: 5px;
+    position: relative;
+}
+
+#blacklist .removeButton {
+    position: absolute;
+    right: 10px;
+    background-color: unset;
+    color: #F00;
+    border: none;
+    cursor: pointer;
+}

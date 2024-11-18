@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="500"
+   height="500"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="p1.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.2551145"
+     inkscape:cx="-19.918501"
+     inkscape:cy="267.30628"
+     inkscape:window-width="2560"
+     inkscape:window-height="1379"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5" />
+  <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+  <g
+     id="g1"
+     style="fill:#000000;fill-opacity:1;stroke-width:3;stroke-dasharray:none">
+    <title
+       id="title1">Layer 1</title>
+    <g
+       id="g2">
+      <g
+         id="g3"
+         transform="translate(20)"
+         style="fill:#000000;fill-opacity:1">
+        <g
+           id="g4"
+           inkscape:highlight-color="#92aaaa">
+          <g
+             id="g5">
+            <circle
+               fill="context-fill"
+               stroke="#ffffff"
+               stroke-dasharray="null"
+               stroke-linejoin="null"
+               stroke-linecap="null"
+               cx="-80"
+               cy="250"
+               id="svg_4"
+               style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-dasharray:none"
+               transform="scale(-1,1)"
+               r="80" />
+            <rect
+               fill="context-fill"
+               stroke="#ffffff"
+               stroke-dasharray="null"
+               stroke-linejoin="null"
+               stroke-linecap="null"
+               x="-444"
+               y="225"
+               width="400"
+               height="50"
+               id="svg_6"
+               style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none"
+               transform="scale(-1,1)" />
+            <circle
+               fill="context-fill"
+               stroke="#ffffff"
+               stroke-dasharray="null"
+               stroke-linejoin="null"
+               stroke-linecap="null"
+               cx="-380"
+               cy="250"
+               id="svg_9"
+               style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none"
+               transform="scale(-1,1)"
+               r="80" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
